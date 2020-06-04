@@ -15,5 +15,9 @@ As it could be hard for your relative to control the TV, we also create a Arduin
 
 Skype is configured to accept all incoming call from the adress book.  To avoid privacy issue, Skype as to be started when convenient for your relative and stopped afterward.
 
+## Note
+The documentation is in French :).  We might translate if there is a request or need for it :).
+Feel free to open an issue on this project to request translation or feel free to contribute.
+
 ## Special Thanks
 To Emilien Le Jamtel for the idea to use Skype ;).
