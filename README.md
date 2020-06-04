@@ -9,7 +9,7 @@ With the COVID crisis it could be hard to meet your relatives and if they are no
 This small project build a solution which requires zero interaction for them to be able to receive a Skype call.  It only relies on Microsoft Skype, a Linux (Ubuntu) box and some configuration.
 
 ## Concept
-We rely on a Intel NUC running a Ubuntu Desktop edition. The computer is connected via HDMI to the TV for video and sound while a USB webcam offer a video stream from your relative.  The computer is remotely controlled via SSH (command line) and RealVNC which give a user interface access to start and stop Skype.
+We rely on a Intel NUC running an Ubuntu Desktop edition. The computer is connected via HDMI to the TV for video and sound while a USB webcam offer a video stream from your relative.  The computer is remotely controlled via SSH (command line) and RealVNC which give a user interface access to start and stop Skype.
 
 As it could be hard for your relative to control the TV, we also created a Arduino based IR remote control driven by the NUC.  We therefore can change the input source back and forth, tune the volume if required...
 
