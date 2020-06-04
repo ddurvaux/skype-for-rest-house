@@ -12,19 +12,18 @@ It only relies on Microsoft Skype, a Linux (Ubuntu) box and a bit of configurati
 We rely on a Intel NUC running an Ubuntu Desktop edition.
 The computer is connected to the TV via HDMI for video and sound.
 A webcam filming your relative is connected over USB.
-The computer is remotely controlled via SSH (command line) and [RealVNC](https://www.realvnc.com).
-These interfaces are also used to start and stop Skype.
+The computer is remotely controlled via SSH (command line) or [RealVNC](https://www.realvnc.com).
+These interfaces are used to start and stop Skype.
 
-As it could be hard for your relative to control the TV, we also created a Arduino based IR remote control driven by the NUC.
-We therefore can change the input source back and forth, tune the volume if required...
+Since it may be hard for your relative to control the TV, we also designed a Arduino-based IR remote control driven by the NUC: input source can be changed back and forth, the volume can be tuned if required, etc.
 
 Skype is configured to accept all incoming call from the address book.
-To avoid privacy issue, Skype as to be started when convenient for your relative and stopped afterwards.
+To avoid privacy issues, Skype has to be manually started when convenient for your relative, and stopped afterwards.
 
 ## Note
-The documentation is in French :)
-We might translate if there is a request or need for it :).
-Feel free to open an issue on this project to request translation or feel free to contribute.
+The documentation is in French.
+Translation can be done upon request :)
+Feel free to open issues for requests, and feel free to contribute.
 
 ## Special Thanks
-To Emilien Le Jamtel for the idea to use Skype ;)
+To Emilien Le Jamtel for the original inspiration ;)
