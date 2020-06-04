@@ -1,0 +1,4 @@
+{
+    "delay": 0.5,
+    "sequence": ["power", "source", "down", "down", "up", "enter"]
+}
