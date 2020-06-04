@@ -13,7 +13,7 @@ We rely on a Intel NUC running a Ubuntu Desktop edition. The computer is connect
 
 As it could be hard for your relative to control the TV, we also create a Arduino based remote controlled driven by the NUC.  We therefore can change the input source back and forth and tune the volume if required.
 
-Skype is configured to accept all incoming call from the adress book.  To avoid privacy issue, Skype as to be started when convenient for your relative and stopped afterward.
+Skype is configured to accept all incoming call from the adress book.  To avoid privacy issue, Skype as to be started when convenient for your relative and stopped afterwards.
 
 ## Note
 The documentation is in French :).  We might translate if there is a request or need for it :).
