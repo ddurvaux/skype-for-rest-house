@@ -17,7 +17,7 @@ These interfaces are used to start and stop Skype.
 
 Since it may be hard for your relative to control the TV, we also designed a Arduino-based IR remote control driven by the NUC: input source can be changed back and forth, the volume can be tuned if required, etc.
 
-Skype is configured to accept all incoming call from the address book.
+Skype is configured to accept all incoming calls from the address book.
 To avoid privacy issues, Skype has to be manually started when convenient for your relative, and stopped afterwards.
 
 ## Note
